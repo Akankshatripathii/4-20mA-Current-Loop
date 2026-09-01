@@ -1,5 +1,8 @@
 # 4-20 mA Current Loop Demonstration
 Developed for the Microchip MASTERs 2026 Conference by Sultan Al Niyadi, Akanksha Tripathi, and Joshua Smith.
+<img width="2618" height="2071" alt="Image" src="https://github.com/user-attachments/assets/9a1b12b4-cd94-4740-83b0-e20c5c41164b" />
+<img width="3540" height="2655" alt="Media" src="https://github.com/user-attachments/assets/544b14aa-bb15-4ad8-a594-21088b7e3a98" />
+
 
 ## Files in this Repository
 - **Demo_GUI**: A tradeshow-ready browser-based GUI for explaining and showcasing the demo.
